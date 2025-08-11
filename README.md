@@ -6,12 +6,6 @@ GardenMeet is a web-based platform designed to connect gardening enthusiasts wit
 
 ---
 
-## 📸 Screenshot
-*(Add a screenshot of your homepage or main feature here)*  
-Example:  
-![GardenMeet Screenshot](screenshot.png)
-
----
 
 ## 🌟 Key Features
 
