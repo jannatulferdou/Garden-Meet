@@ -1,20 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-
-
-
 # 🌱 GardenMeet
 
 **Live URL:** [https://gardening-7dc41.web.app/](https://gardening-7dc41.web.app/)
@@ -23,7 +6,12 @@ GardenMeet is a web-based platform designed to connect gardening enthusiasts wit
 
 ---
 
+## 📸 Screenshot
+*(Add a screenshot of your homepage or main feature here)*  
+Example:  
+![GardenMeet Screenshot](screenshot.png)
 
+---
 
 ## 🌟 Key Features
 
@@ -68,4 +56,20 @@ GardenMeet is a web-based platform designed to connect gardening enthusiasts wit
 "sweetalert2": "^11.21.2",
 "swiper": "^11.2.7",
 "tailwindcss": "^4.1.7",
-"use-local-storage": "^3.0.0"
+"use-local-storage": "^3.0.0" 
+
+
+
+## ⚙️ Installation
+
+# Clone the repository
+git clone https://github.com/jannatulferdou/Garden-Meet.git
+
+# Navigate to the project directory
+cd Garden-Meet
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
